@@ -1,5 +1,3 @@
-#mydata = read.csv("/nfs/cms/mtech18/shubham.kothawade/Desktop/wdbc.csv",header=T)
-#data   = mydata[,-1]     #remove unwanted column
 kfold=function(n)
 {
 data=iris
